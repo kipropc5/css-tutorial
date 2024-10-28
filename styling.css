@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  background-color: blue;
+  color: white;
+  font-size: 2rem;
+}
+.one{
+  background-color: brown;
+  color: rgb(123, 255, 0);
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem groove rgb(37, 73, 172);
+}
+.two{
+  background-color: aqua;
+  color: rgb(225, 85, 9);
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem double rgb(214, 21, 21);
+}
+.three{
+  background-color: blueviolet;
+  color: rgb(0, 255, 123);
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem solid yellow;
+}
+.four{
+  background-color: red;
+  color: blue;
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem dotted;
+}
+.five{
+  background-color: yellow;
+  color: black;
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem dashed red;
+}
